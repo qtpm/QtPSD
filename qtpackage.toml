@@ -1,0 +1,5 @@
+name = "QtPSD"
+author = "shibukawa.yoshiki"
+license = "The MIT License (MIT)"
+qtmodules = ["Gui"]
+version = [1, 0, 0]
